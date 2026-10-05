@@ -1,0 +1,10 @@
+{
+  "name": "DermaGlow Mirror - Gương Thông Minh Phân Tích Da & Personal Color AI",
+  "description": "Gương làm đẹp thông minh DermaGlow tích hợp camera 4K và AI tiên tiến, phân tích đa tầng da, cá nhân hóa chu trình skincare và định hình phong cách qua Personal Color.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

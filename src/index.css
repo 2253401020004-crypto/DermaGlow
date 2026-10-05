@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Playfair Display", Georgia, serif;
+  --font-sans: "Plus Jakarta Sans", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Custom subtle glow effects */
+.glow-subtle {
+  box-shadow: 0 0 40px -10px rgba(220, 168, 130, 0.25);
+}
+
+.glow-mirror {
+  box-shadow: 0 20px 60px -15px rgba(200, 160, 130, 0.2), 0 0 20px 2px rgba(255, 235, 220, 0.4);
+}
